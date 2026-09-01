@@ -1756,6 +1756,8 @@ for geospatial and tabular data.
 * [LOLManuscriptMonday](https://github.com/ladiesoflandsat/LOLManuscriptMonday) - Hold the links to the Ladies of Landsat Manuscript Monday series.
 * [Spatialreference.org](http://spatialreference.org/) - Source for coordinate system information.
 * [TileJSON.io](http://tilejson.io/) - tilejson.io is a simple viewer for raster tile sets (Enter tile URL, layer properties, share).
+* [PlaneCrashData](https://www.planecrashdata.com/) - Open dataset and interactive 3D globe visualizing over 100 years of global aviation safety incidents, airline safety records, and aircraft model crash statistics.
+
 ### Icons
 
 * [font-GIS](https://github.com/Viglino/font-gis) - A very very cool icon font set for use with GIS and spatial analysis tools.
