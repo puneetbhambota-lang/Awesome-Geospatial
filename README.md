@@ -1741,6 +1741,7 @@ for geospatial and tabular data.
 
 ## Resources
 
+* [Canadian Rental Address Research](https://github.com/Fink692/canadian-rental-data-sources) - Source-dated directory of official Canadian property, permit, tenancy, hazard, transit, and neighbourhood resources for pre-lease research.
 * [Cartographical Map Projections](http://www.progonos.com/furuti/MapProj/Normal/TOC/cartTOC.html) - A good introduction to projected coordinate systems.
 * [Cloud Optimized Point Cloud Specification](https://github.com/copcio/copcio.github.io) - Geospatial, compressed, range-readable, LAZ-compatible point cloud format.
 * [ESRI Shapefile Specs](http://www.esri.com/library/whitepapers/pdfs/shapefile.pdf) - Shapefile specifications.
@@ -1845,7 +1846,6 @@ for geospatial and tabular data.
 * [Awesome Spectral Indices](https://github.com/awesome-spectral-indices/awesome-spectral-indices)
 * [Awesome SQLite](https://github.com/planetopendata/awesome-sqlite)
 * [Awesome-EarthObservation-Code](https://github.com/acgeospatial/awesome-earthobservation-code)
-* [Canadian Rental Address Research](https://github.com/Fink692/canadian-rental-data-sources) - Source-dated directory of official Canadian property, permit, tenancy, hazard, transit, and neighbourhood resources for pre-lease research.
 * [Digital Earth Australia notebooks and tools repository](https://github.com/GeoscienceAustralia/dea-notebooks)
 * [Cartography / Mapping / Web design resources](https://github.com/tolomaps/resources)
 * [Essential Python Geospatial Libraries](http://carsonfarmer.com/2013/07/essential-python-geo-libraries/)
