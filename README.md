@@ -142,6 +142,8 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [ArcGIS Pro](https://pro.arcgis.com/en/pro-app/) - Fully 64-bit version of ArcGIS with new GUI and 2D/3D integration.
 * [ArcGIS](https://www.arcgis.com/features/) - GIS for working with maps and geographic information.
 * [AutoCAD Map 3D](http://www.autodesk.com.br/products/autocad-map-3d/overview) - GIS AutoCAD integration.
+
+* [SM Datum](https://smdatum.com/) - Free browser-based GIS toolkit: format conversion (shapefile/KML/GeoJSON/GeoPackage/DXF), vector analysis, CRS reprojection, raster and hydrology tools, survey calculators. No install or signup.
 * [FME Desktop](https://www.safe.com/fme/fme-desktop/) - FME is an integrated collection of Spatial ETL tools for data transformation and data translation.
 * [GC2](http://www.mapcentia.com/en/product/) - GC2 is an enterprise platform GIS (open source)
 * [GeoDa](http://geodacenter.github.io/) - Spatial data analysis software.
